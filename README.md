@@ -24,8 +24,8 @@ I love challenges and understanding the context to find the best solution.
 - TREND-E: Empowering the Fashion Industry with Instagram Trends
 - Comparative Analysis of Online customers in Rural and Urban areas in the US Market
 - Music recommender
-- +25 different bootcamp projects
+- +25 different [bootcamp projects](https://github.com/BeaMoralesQuel?tab=repositories)
 
 ## Contact
 
-Find all of my details in the left side or in my Linkedin profile.
+Find all of my details in the left side or in my [Linkedin profile](https://www.linkedin.com/in/beatrizmoralesquel/).
