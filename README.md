@@ -23,7 +23,7 @@ I love challenges and understanding the context to find the best solution.
 
 - [TREND-E: Empowering the Fashion Industry with Instagram Trends](https://github.com/BeatrizMoralesQuel/TREND-E)
 - [Comparative Analysis of Online customers in Rural and Urban areas in the US Market](https://github.com/BeatrizMoralesQuel/Rural-VS-Urban-Customers-Online)
-- Music recommender
+- [Music recommender](https://github.com/BeatrizMoralesQuel/Music_Recommender)
 - +25 different [bootcamp projects](https://github.com/BeaMoralesQuel?tab=repositories)
 
 ## Contact
